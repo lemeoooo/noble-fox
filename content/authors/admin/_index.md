@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Yingru Pan
 
 # Name pronunciation (optional)
 name_pronunciation: ''
